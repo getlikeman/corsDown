@@ -1,0 +1,15 @@
+{
+  "name": "cors-down",
+  "version": "1.0.1",
+  "description": "Simple npm package to get around cors policy for image links  ",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getlikeman/corsDown"
+  },
+  "author": "me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/getlikeman/corsDown/issues"
+  },
+  "homepage": "https://github.com/getlikeman/corsDown#readme"
+}
